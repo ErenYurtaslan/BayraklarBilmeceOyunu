@@ -1,6 +1,6 @@
 # bayrak_bilmece_flutter
 
-A new Flutter project.
+Flutter ile çoktan seçmeli 10 Soruluk, verilen bayrağın hangi ülkeye ait olduğunu bilme oyunu.
 
 ## Getting Started
 
